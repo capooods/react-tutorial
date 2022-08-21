@@ -1,1 +1,1 @@
-# strat-capstone
+# react tutorial
